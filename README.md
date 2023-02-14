@@ -7,12 +7,28 @@ I´m a teacher in the bootcamp Machine Learning in AI Saturdays Madrid
 
 Look here-> https://saturdays.ai/madrid/ 
 
+### Proyects:
+-> Deepfakes detection by pytorch: 
+
+   https://huggingface.co/spaces/aaronespasa/deepfake-detection
+   
+   https://medium.com/saturdays-ai/torchfakes-deepfake-detection-article-67dcadb4cc38
+   
+   https://github.com/Jorgegs102/deepfake-detection
+   
+-> Blood Cell Clasification:
+
+   https://medium.com/saturdays-ai/classification-peripheral-blood-cell-b638754a5c29
+   
+   https://github.com/Jorgegs102/ClassificationPeripheralBloodCell
+
+
 ### I’m looking to collaborate on new proyects_
--> machine and deep learning
+-> Machine and deep learning
 
--> modeling microorganism
+-> Modeling microorganism
 
--> others. I am a curious cat
+-> Others. I am a curious cat
 
 💬 You can contact me in my linkedIn https://www.linkedin.com/in/jorgegonz%C3%A1lezsierra94/
 
