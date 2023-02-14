@@ -1,5 +1,3 @@
-"Hello there"
-"General Kenobi"
 # Welcome to my github
 ### I’m currently working on my PhD
 about the production of biokerosene from microalgae lipids and other high value-added products such as Astaxanthin.
