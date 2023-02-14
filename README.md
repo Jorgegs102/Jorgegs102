@@ -1,14 +1,22 @@
-### Hi there 👋
+"Hello there"
+"General Kenobi"
+# Welcome to my github
+### I’m currently working on my PhD
+about the production of biokerosene from microalgae lipids and other high value-added products such as Astaxanthin.
 
-<!--
-**Jorgegs102/Jorgegs102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### In my free time i´m learning about Machine and Deep Learning
+I´m a teacher in the bootcamp Machine Learning in AI Saturdays Madrid
 
-Here are some ideas to get you started:
+Look here-> https://saturdays.ai/madrid/ 
 
-- 🔭 I’m currently working on my PhD on the production of biokerosene from microalgae lipids and other high value-added products such as Astaxanthin.
-- 🌱 I’m currently learning Machine and Deep Learning
-- 👯 I’m looking to collaborate on new proyects about machine and deep learning about microorganism, modeling and others. I am a curious cat
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: One Piece Freak: kaiso kuoni ore wa naru
--->
+### I’m looking to collaborate on new proyects_
+-> machine and deep learning
+
+-> modeling microorganism
+
+-> others. I am a curious cat
+
+💬 You can contact me in my linkedIn https://www.linkedin.com/in/jorgegonz%C3%A1lezsierra94/
+
+⚡ Fun fact: One Piece Freak: kaiso kuoni ore wa naru
+
